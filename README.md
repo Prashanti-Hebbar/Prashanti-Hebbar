@@ -2,6 +2,10 @@
 - 🎓 3rd-year engineering student passionate about technology and innovation.
 - 💡 Love solving problems and developing real-world applications. 
 - ⚡ I enjoy building innovative solutions, contributing to open-source projects, and learning new technologies.  
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/9b4aed3e-8d29-4eca-9833-034f49386bec" width="200"/>
+</p>
+
 
 
 
