@@ -1,5 +1,5 @@
 ## 👋 Hello, I'm Prashanti...
-- 🎓 3rd-year engineering student passionate about technology and innovation.
+- 🎓 Final year engineering student passionate about technology and innovation.
 - 💡 Love solving problems and developing real-world applications. 
 - ⚡ I enjoy building innovative solutions and learning new technologies.  
 <p align="center">
