@@ -22,8 +22,14 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Strive+for+progress+not+perfection.;Keep+building+and+keep+learning!" />
 </p>
 
-📊 GitHub Activity
+###📊 GitHub Activity
 <table align="left"><tr><td><img src="https://github-streak-stats-ruby.vercel.app/?user=Prashanti-Hebbar&theme=tokyonight&hide_border=true" /></td><td><img src="https://awesome-github-stats.azurewebsites.net/user-stats/Prashanti-Hebbar?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" /></td></tr></table>
+
+###🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Prashanti-Hebbar&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</p>
 
 ## 🌐 Let’s Connect!
 <p align="left"><a href="https://linkedin.com/in/prashanti-hebbar-205a51282" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" title="Connect on LinkedIn" /></a>  <a href="https://github.com/Prashanti-Hebbar" target="_blank"><img src="https://img.icons8.com/ios-filled/48/ffffff/github.png" title="Follow on GitHub" style="background-color:#000; border-radius:8px;" /></a></p>
