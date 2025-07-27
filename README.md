@@ -31,7 +31,24 @@
 | ![Git](https://img.icons8.com/color/48/000000/git.png) | ![Postman](https://img.icons8.com/dusk/48/000000/postman-api.png) | ![UiPath](https://img.icons8.com/color/48/000000/uipath.png) |
 |---|---|---|
 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Strive+for+progress+not+perfection.;Keep+building+and+keep+learning!" />
+</p>
 
+---
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-streak-stats-ruby.vercel.app/?user=MeghanaDG04&theme=tokyonight&hide_border=true" />
+    </td>
+    <td>
+<p align="center">
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MeghanaDG04?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" alt="Meghana Gaonkar GitHub Stats" />
+  <br />
+</p>
+   
+  </tr>
 
 ## 🌐 Connect with Me  
 
