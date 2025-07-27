@@ -40,11 +40,11 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-streak-stats-ruby.vercel.app/?user=MeghanaDG04&theme=tokyonight&hide_border=true" />
+      <img src="https://github-streak-stats-ruby.vercel.app/?user=Prashanti-Hebbar&theme=tokyonight&hide_border=true" />
     </td>
     <td>
 <p align="center">
-  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/MeghanaDG04?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" alt="Meghana Gaonkar GitHub Stats" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Prashanti-Hebbar?cardType=octocat&theme=tokyonight&preferLogin=false&Border=%23DD272700" alt="Prashanti Hebbar GitHub Stats" />
   <br />
 </p>
    
