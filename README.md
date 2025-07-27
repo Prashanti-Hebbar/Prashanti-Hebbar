@@ -12,7 +12,7 @@
 ### 🎨 Frontend Development  
 <p align="left"><img src="https://img.icons8.com/color/48/html-5--v1.png" title="HTML5" /><img src="https://img.icons8.com/color/48/css3.png" title="CSS3" /><img src="https://img.icons8.com/officel/48/react.png" title="React" /></p
 
-### 🛠️ Backend & Databases  
+## 🛠️ Backend & Databases  
 <p align="left"><img src="https://img.icons8.com/color/48/nodejs.png" title="Node.js" /><img src="https://img.icons8.com/fluency/48/express-js.png" title="Express.js" /><img src="https://img.icons8.com/color/48/mysql-logo.png" title="MySQL" /><img src="https://img.icons8.com/color/48/mongodb.png" title="MongoDB" /></p>
 
 ### 🔧 Tools & Platforms  
