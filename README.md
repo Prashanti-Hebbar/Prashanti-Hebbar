@@ -18,7 +18,7 @@
 ### 🔧 Tools & Platforms  
 <p align="left"><img src="https://img.icons8.com/color/48/git.png" title="Git" /><img src="https://img.icons8.com/dusk/48/postman-api.png" title="Postman" /><img src="https://img.icons8.com/color/48/uipath.png" title="UiPath" /></p>
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Strive+for+progress+not+perfection.;Keep+building+and+keep+learning!" />
 </p>
 
