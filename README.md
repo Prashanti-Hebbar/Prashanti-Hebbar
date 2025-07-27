@@ -1,8 +1,8 @@
 ## 👋 Hello, I'm Prashanti...
--🎓 Final-year Information Science & Engineering student
--💻 Full Stack Developer | Open Source Contributor
--🌱 Passionate about solving real-world problems through innovation
--✨ Currently mentoring contributors at FoodIO for GSSoC 2025
+- 🎓 Final-year Information Science & Engineering student
+- 💻 Full Stack Developer | Open Source Contributor
+- 🌱 Passionate about solving real-world problems through innovation
+- ✨ Currently mentoring contributors at FoodIO for GSSoC 2025
 <p align="center"><img src="https://github.com/user-attachments/assets/9b4aed3e-8d29-4eca-9833-034f49386bec" width="200" alt="Prashanti Profile"/></p>
 
 ## 🚀 Tech Stack  
