@@ -94,4 +94,4 @@
 
 ---
 
-> 🧩 *“Code is a canvas. Community is the color. Let’s build something meaningful together.”*
+> 🧩 *“Code is a canvas. Community is the color. Let’s build something meaningful together”*
