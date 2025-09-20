@@ -1,4 +1,4 @@
-<h1 align="center">✨ Hey there, I'm Prashanti Hebbar ✨</h1>
+<h1 align="center">Hey there, I'm Prashanti Hebbar!</h1>
 <p align="center">
   🎓 Final-year ISE Student @ MITE | 💻 Full Stack Developer | 🧑‍🏫 GSSoC 2025 Project Admin <br>
   🌱 Passionate about solving real-world problems through innovation & collaboration
