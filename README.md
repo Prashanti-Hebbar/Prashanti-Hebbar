@@ -45,7 +45,6 @@
     <td>
       <img src="https://img.icons8.com/color/48/git.png" title="Git"/>
       <img src="https://img.icons8.com/dusk/48/postman-api.png" title="Postman"/>
-      <img src="https://img.icons8.com/color/48/uipath.png" title="UiPath"/>
     </td>
   </tr>
 </table>
