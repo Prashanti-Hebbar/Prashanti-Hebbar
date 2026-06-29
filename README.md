@@ -98,8 +98,6 @@ Double-Otsu thresholding + confidence mapping for real-world road segmentation a
 - 🌟 **Top 20 Contributor** — Open Source Connect India 2025
 - 🎯 **AIR 2539** — All India Naukri Campus Aptitude Test (AINCAT)
 - ⚡ **Rank 39** — CodeClash: Battle of Logic & Code (Unstop)
-- 🚀 Attended **Infosys Pragati: Path to Future** — Cohort 3, Bangalore
-- 📮 Certified Volunteer — **Postman API Workshop, NITK Surathkal**
 
 ---
 
